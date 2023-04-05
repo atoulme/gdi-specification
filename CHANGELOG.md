@@ -41,7 +41,7 @@
 
 ### Bugfixes
 
-- Remove redunant and conflicting statement about file and line for `ResourceLogs`.
+- Remove redundant and conflicting statement about file and line for `ResourceLogs`.
 
 #### Enhancements
 
